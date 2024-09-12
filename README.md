@@ -1,0 +1,1 @@
+# Text-Encoding-Techniques-Manual-and-Library-Based-Approaches-for-Word-and-Character-Embeddings
